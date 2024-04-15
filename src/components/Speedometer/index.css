@@ -1,0 +1,47 @@
+/* Write your CSS here */
+.bgContainer {
+  height: 100vh;
+  background-color: #07080c;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: Roboto;
+}
+
+.title {
+  font-size: 38px;
+  font-weight: bold;
+  font-style: italic;
+  color: #fff;
+}
+.image {
+  height: 400px;
+}
+
+.bottomContainer {
+  width: 300px;
+  color: #fff;
+  text-align: center;
+}
+.speedText {
+  font-size: 34px;
+}
+.rule {
+  font-size: medium;
+}
+.button {
+  padding: 10px 20px;
+  color: #fff;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.one {
+  background-color: #0b69ff;
+  margin-right: 20px;
+}
+.two {
+  border: 1px solid #fff;
+  background-color: transparent;
+}
